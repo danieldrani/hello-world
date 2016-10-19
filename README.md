@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+my name's dan and i'm an android/ios developer
